@@ -58,7 +58,7 @@
 Server : Apache Tomcat 9.0
 Database : Oracle 18c
 Development Tool : Eclipse 4.15.0, sqlDeveloper version 21.2.1
-Development Language : JAVA , HTML5, CSS3, JavaScript, jQuery, SQL, JSP, Servlet
+Development Language : JAVA, HTML5, CSS3, JavaScript, jQuery, SQL, JSP, Servlet
 Framework: Bootstrap
 Team Coop : Github, Sourcetree, ERDCloud, kakaoOven
 Open API : Kakao 검색 API, Kakao Map API, Daum 주소 API
