@@ -26,7 +26,11 @@
 <br>
 
 ## 프로젝트 산출물
-### 
+### ERD
+![ERD](https://user-images.githubusercontent.com/77559262/152891289-9d64de0e-e48c-4bd7-94bc-f196eeeff964.png)
+### 유스케이스 다이어그램
+![유스케이스 다이어그램](https://user-images.githubusercontent.com/77559262/152891446-344c9797-0079-4d13-8c20-13f72f2a86bd.jpg)
+<br>  
 
 ## 구현 기능
 ### [비회원]
