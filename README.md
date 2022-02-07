@@ -6,24 +6,27 @@
 <br>
 
 ## 프로젝트 진행 순서
-1. 기획  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5302085e-6495-4cd6-b2b0-5c9e3507c2ed/01.%EA%B8%B0%ED%9A%8D%ED%9A%8C%EC%9D%98_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211224T021153Z&X-Amz-Expires=86400&X-Amz-Signature=0b4a950204152ed7aad9d9f75f89c8b53631d9e1851aed6ffb47899fa485473c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2201.%25EA%25B8%25B0%25ED%259A%258D%25ED%259A%258C%25EC%259D%2598_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
+1. 기획  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5302085e-6495-4cd6-b2b0-5c9e3507c2ed/01.%EA%B8%B0%ED%9A%8D%ED%9A%8C%EC%9D%98_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220207%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220207T234012Z&X-Amz-Expires=86400&X-Amz-Signature=fd277a55144f9a9ffc11866131d7bf0fa7d94c5c32446c3340af84f37a2bf9d8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2201.%25EA%25B8%25B0%25ED%259A%258D%25ED%259A%258C%25EC%259D%2598_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
     + 개발 배경 고찰
     + 구현 목표 설정
     + 요구사항 정의서 작성
     + 단위업무 정의서 작성을 통한 요구사항 상세화  
     <br>
     
-2. UI 설계  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9dfef356-4f07-49c3-8e71-edb040bba409/02.UI%ED%9A%8C%EC%9D%98_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211224T024819Z&X-Amz-Expires=86400&X-Amz-Signature=07831383d025e5e828f987d8c0d2d0cee106c838d58360bf38617a4752c96209&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2202.UI%25ED%259A%258C%25EC%259D%2598_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
+2. UI 설계  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9dfef356-4f07-49c3-8e71-edb040bba409/02.UI%ED%9A%8C%EC%9D%98_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220207%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220207T234030Z&X-Amz-Expires=86400&X-Amz-Signature=0ccf734ca32668ad77a73a705dd79b09737c08da1cba6717b2f47bfea33f53c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2202.UI%25ED%259A%258C%25EC%259D%2598_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
     + 유스케이스 다이어그램 작성
     + 스토리보드를 통한 화면 구성 설계  
     <br>
-3. DB 구축  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9bc3c67b-2be4-44da-b5e6-0a66a418ad4a/03.DB%ED%9A%8C%EC%9D%98_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211224T030031Z&X-Amz-Expires=86400&X-Amz-Signature=9746adb31c538e2a7155e6cb52502ba1441fdd416da0241cdde6dc04f008042d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2203.DB%25ED%259A%258C%25EC%259D%2598_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
+3. DB 구축  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9bc3c67b-2be4-44da-b5e6-0a66a418ad4a/03.DB%ED%9A%8C%EC%9D%98_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220207%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220207T234043Z&X-Amz-Expires=86400&X-Amz-Signature=67e87ee5c53186e94ae5673b3a1671d3eaa83268f66a3408ba0be3089fc1f762&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2203.DB%25ED%259A%258C%25EC%259D%2598_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
     + DB 구축을 위한 ERD 설계
     + 테이블 정의서를 통한 ERD 상세화
     <br>
 
-4. 실구현  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8652ef1-0e97-47c3-831d-5f79e8b50a55/04.%EC%B5%9C%EC%A2%85_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211224T031503Z&X-Amz-Expires=86400&X-Amz-Signature=55a481f507945484ae964d0a910f434a91716291f9c0c88a29d1ba40b30aac5e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2204.%25EC%25B5%259C%25EC%25A2%2585_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
+4. 실구현  [:floppy_disk:.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8652ef1-0e97-47c3-831d-5f79e8b50a55/04.%EC%B5%9C%EC%A2%85_%EC%8B%A0%EC%9A%B0%EB%8C%80%ED%95%99%EA%B5%90.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220207%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220207T234057Z&X-Amz-Expires=86400&X-Amz-Signature=846fe1eb9b66b04a61c669d23565b3af01374c3cd4baecb60def77c2e6303e9a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2204.%25EC%25B5%259C%25EC%25A2%2585_%25EC%258B%25A0%25EC%259A%25B0%25EB%258C%2580%25ED%2595%2599%25EA%25B5%2590.pdf%22&x-id=GetObject)
 <br>
+
+## 프로젝트 산출물
+### 
 
 ## 구현 기능
 ### [비회원]
